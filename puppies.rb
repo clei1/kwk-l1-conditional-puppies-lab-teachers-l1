@@ -33,4 +33,5 @@ def new_animal(dog, cat)
     return "Good job!"
   else
     return 'Get back to your animal goals!'
+  end
 end
