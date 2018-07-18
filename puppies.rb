@@ -31,4 +31,6 @@ end
 def new_animal(dog, cat)
   if(dog == 0 || cat == 0)
     return "Good job!"
+  else
+    return 'Slow down! No more puppies.'
 end
